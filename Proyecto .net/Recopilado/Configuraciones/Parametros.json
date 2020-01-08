@@ -1,0 +1,63 @@
+{
+  "orgUnit": "1-0000013297-1",
+  "wbs": "1-0000013297-1",
+
+  "Action": "pruebapaso1305661823",
+  "State": "Init",
+  "ID": "2433052d-9341-4e47-b5c4-12fb9e95c61b",
+  "URLChatbot": "http://automationplatform.azurewebsites.net/api/runprocess",
+
+  "requirementType": [
+    "Service",
+    "Maintenance"
+  ],
+
+
+  "empresa": [
+    "Farmacias Cruz Verde - FCV",
+    "Maicao",
+    "Socofar S.A.",
+    "Munnich Pharma Medical",
+    "Difarma",
+    "Intercarry",
+    "Mintlab",
+    "Solventa",
+    "Grupo VidaRed",
+    "Cruz Verde Colombia",
+    "Cesfar"
+  ],
+
+
+  "location": [
+    "Argentina",
+    "Chile"
+  ],
+
+  "tipoFondo": [
+    "Fondo por rendir(1)",
+    "Fondo fijo(2)"
+  ],
+
+  "concepto": [
+    "Transporte(1)",
+    "Almuerzo(2)"
+  ],
+
+  "preguntas": [
+    "Seleccione la empresa que desea asociar la rendición:",
+    "¿Cuál es el tipo de fondo?",
+    "¿A qué concepto se asocia su rendición?",
+    "Ingrese el monto a rendir:",
+    "Ingrese Fecha de boleta:",
+    "Ingrese el número de boleta:",
+    "Ingrese la justificación:",
+    "Ingrese el rut del proveedor:"
+  ],
+
+  "preguntasCriterio": [
+    "1000"
+  ],
+
+  "proposito": "proposito"
+
+}
